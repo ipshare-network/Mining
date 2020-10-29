@@ -1,1 +1,2 @@
-# Mining
+# Mining 
+Written in GO language
